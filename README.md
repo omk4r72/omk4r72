@@ -77,27 +77,3 @@
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=omk4r72&" alt="omk4r72" class="fade-in" />
 </p>
-
-<!-- Add some CSS animations -->
-<style>
-  .bounce { animation: bounce 2s infinite; }
-  .spin { animation: spin 3s linear infinite; }
-  .fade-in { animation: fadeIn 2s ease-in-out; }
-  .hover-grow:hover { transform: scale(1.1); transition: 0.3s; }
-
-  @keyframes bounce {
-    0%, 20%, 50%, 80%, 100% { transform: translateY(0); }
-    40% { transform: translateY(-15px); }
-    60% { transform: translateY(-7px); }
-  }
-
-  @keyframes spin {
-    0% { transform: rotate(0deg); }
-    100% { transform: rotate(360deg); }
-  }
-
-  @keyframes fadeIn {
-    from { opacity: 0; }
-    to { opacity: 1; }
-  }
-</style>
