@@ -1,14 +1,14 @@
-<!-- Ultimate Gen Z-style GitHub Profile README.md for Omkar Chavhan -->
+<!-- Ultimate 3D Animated Gen Z-style GitHub Profile README.md for Omkar Chavhan -->
 
 <p align="center">
-  <img src="https://github.com/omk4r72/omk4r72/blob/main/baccccc.jpg" alt="logo" width="150" height="150" style="border-radius:50%; border: 3px solid #00fff7; box-shadow: 0 0 15px #00fff7;" />
+  <img src="https://media.giphy.com/media/l0HlOvJ7yaacpuSas/giphy.gif" alt="3D Animated Logo" width="200" style="border-radius:50%; border: 3px solid #00fff7; box-shadow: 0 0 20px #00fff7;" />
 </p>
 
 <h1 align="center">Hi 👋, I'm <span style="color:#00fff7;">Omkar Chavhan</span></h1>
-<h3 align="center"><em><span style="color:#ff6ec7;">Ethical Hacker ⚡</span> | <span style="color:#ffd700;">Cybersecurity Enthusiast 🛡️</span> | <span style="color:#00ffcc;">CTF Player 🐱‍💻</span></em></h3>
+<h3 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=500&color=00fff7&width=500&lines=Ethical+Hacker+%F0%9F%9A%A1;Cybersecurity+Enthusiast+%F0%9F%9B%A3;CTF+Player+%F0%9F%90%B1%E2%80%8D%F0%9F%92%BB" alt="Typing SVG"></h3>
 
 <p align="center">
-  <img src="https://i.imgur.com/kzo1Owg.gif" alt="coding" width="400" style="border-radius:10px; box-shadow: 0 0 20px #ff6ec7;" />
+  <img src="https://media.giphy.com/media/kzo1Owg.gif" alt="coding animation" width="400" style="border-radius:10px; box-shadow: 0 0 20px #ff6ec7;" />
 </p>
 
 <p align="center">
@@ -22,7 +22,7 @@
 </p>
 
 ## 🌱 About Me
-- I’m currently leveling up my skills in **Reverse Engineering & Malware Analysis** 🧠
+- Currently leveling up **Reverse Engineering & Malware Analysis** 🧠
 - 💬 Ask me about **Cybersecurity, Hacking, CTF challenges** ⚡
 - 📫 Reach me at: **chavhanomkar702@gmail.com** ✉️
 
@@ -63,26 +63,28 @@
 </p>
 
 ## 🚀 Featured Projects
-
 <div align="center">
-
-<div style="background:#0d1117; border: 2px solid #00fff7; border-radius:15px; padding:15px; margin:10px; width:80%; box-shadow:0 0 15px #00fff7;">
+<div style="background:#0d1117; border:2px solid #00fff7; border-radius:15px; padding:15px; margin:10px; width:80%; box-shadow:0 0 20px #00fff7; animation: glow 2s infinite alternate;">
   <h4 style="color:#00fff7;">⚡ Automated Android Pentesting Tool</h4>
   <p style="color:#c0c0c0;">Fully automated CLI-based Android app analysis</p>
 </div>
-
-<div style="background:#0d1117; border: 2px solid #ff6ec7; border-radius:15px; padding:15px; margin:10px; width:80%; box-shadow:0 0 15px #ff6ec7;">
+<div style="background:#0d1117; border:2px solid #ff6ec7; border-radius:15px; padding:15px; margin:10px; width:80%; box-shadow:0 0 20px #ff6ec7; animation: glow 2s infinite alternate;">
   <h4 style="color:#ff6ec7;">🛠️ Adaptive Malware Detection System (Linux)</h4>
   <p style="color:#c0c0c0;">Detects EDR bypass, GPU execution & rootkits</p>
 </div>
-
-<div style="background:#0d1117; border: 2px solid #ffd700; border-radius:15px; padding:15px; margin:10px; width:80%; box-shadow:0 0 15px #ffd700;">
+<div style="background:#0d1117; border:2px solid #ffd700; border-radius:15px; padding:15px; margin:10px; width:80%; box-shadow:0 0 20px #ffd700; animation: glow 2s infinite alternate;">
   <h4 style="color:#ffd700;">🔗 Blockchain Evidence Management System</h4>
   <p style="color:#c0c0c0;">Secure chain of custody for digital forensics</p>
 </div>
-
 </div>
 
+<style>
+@keyframes glow {
+  0% { box-shadow:0 0 10px #00fff7; }
+  50% { box-shadow:0 0 25px #00fff7; }
+  100% { box-shadow:0 0 10px #00fff7; }
+}
+</style>
 
 ---
 
