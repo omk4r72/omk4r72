@@ -1,7 +1,7 @@
 <!-- Ultimate 3D Animated Gen Z-style GitHub Profile README.md for Omkar Chavhan -->
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0HlOvJ7yaacpuSas/giphy.gif" alt="3D Animated Logo" width="200" style="border-radius:50%; border: 3px solid #00fff7; box-shadow: 0 0 20px #00fff7;" />
+  <img src="" alt="3D Animated Logo" width="200" style="border-radius:50%; border: 3px solid #00fff7; box-shadow: 0 0 20px #00fff7;" />
 </p>
 
 <h1 align="center">Hi 👋, I'm <span style="color:#00fff7;">Omkar Chavhan</span></h1>
