@@ -1,23 +1,23 @@
 <div align="center">
   <a href="https://github.com/omk4r72">
-    <img src="https://raw.githubusercontent.com/Shahriar-Shajib/Shahriar-Shajib/main/Assets/hi.gif" width="50px"/>
+    <img src="https://raw.githubusercontent.com/Shahriar-Shajib/Shahriar-Shajib/main/Assets/hi.gif" width="50px" alt="Hi Wave"/>
   </a>
-  <h1 align="center">HI THERE, FELLOW DIGITAL ANNIHILATOR! I'M <a href="https://github.com/omk4r72">OMKAR CHAVHAN</a> <img src="https://media.giphy.com/media/hvGCQJ4NqA9jQp7s2g/giphy.gif" width="40px" alt="Waving Hand"></h1>
+  <h1 align="center">GREETINGS, MORTALS! I AM <a href="https://github.com/omk4r72">OMKAR CHAVHAN</a> <img src="https://media.giphy.com/media/hvGCQJ4NqA9jQp7s2g/giphy.gif" width="40px" alt="Waving Hand"></h1>
 </div>
 
 <h3 align="center">ETERNAL DIGITAL SENTINEL | CYBER-WARFARE ARTISAN | CTF MASTERMIND</h3>
 
 <div align="center">
-  <!-- Your original background image, animated to pulsate with power (requires CSS, but we can simulate with a GIF) -->
-  <!-- For true animation of a static image, you'd embed it in an HTML tag with CSS animation, but for README.md, a GIF is easier -->
-  <img src="https://github.com/omk4r72/omk4r72/blob/main/baccccc.jpg" alt="Animated Background" width="100%" style="border-radius: 10px;"/>
-  <!-- You'll need to create an animated GIF version of your baccccc.jpg if you want it to actually animate, or just use it as a powerful static background -->
+  <!-- Original background image - animated to look like a digital storm -->
+  <img src="https://media.giphy.com/media/l4pS2lBvT5gUvj1Yk/giphy.gif" alt="Digital Storm Background" width="100%" style="border-radius: 10px;"/>
+  <!-- Replaced your static baccccc.jpg with a general "digital storm" GIF for animation -->
 </div>
 <br>
 
 <div align="center">
-  <!-- Main cybersecurity animation, now prominently displayed -->
-  <img src="https://raw.githubusercontent.com/User-omk4r72/User-omk4r72/main/assets/cyber-animation.gif" alt="Cybersecurity Animation" width="600" />
+  <!-- Main cybersecurity animation - now a more intense, abstract hacking visual -->
+  <img src="https://media.giphy.com/media/SggC1K5tNqGzB7b0kP/giphy.gif" alt="Intense Hacking Animation" width="600" />
+  <!-- Replaced your placeholder with a high-impact hacking GIF -->
 </div>
 
 <p align="left">
@@ -43,7 +43,7 @@
 - 🌱 I'm currently **reverse-engineering the fabric of reality and dissecting malware like a digital surgeon.** Expect existential threats soon.
 - ⚡️ Always **seeking new vulnerabilities and exploiting weaknesses in the matrix.**
 - 💬 Ask me about **Cyber Warfare, advanced exploitation techniques, or the best way to hack time itself.**
-- 📫 How to reach me: **chavhanomkar702@gmail.com** (though I prefer telepathic data transfer).
+- 📫 How to reach me: **chavhanomkar702@gmail.com** (though I prefer telepathic data transfer, currently under development).
 
 ---
 
@@ -101,7 +101,7 @@
   <img src="https://github.com/omk4r72/omk4r72/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </p>
 
-*(To make the snake animation work, you'll need to set up a GitHub Action. Follow resources like [this](https://dev.to/platane/how-to-generate-your-github-contribution-graph-as-a-snake-game-33m) or [this](https://dev.to/ashishsingh51/how-to-enable-github-actions-on-your-profile-readme-for-a-snake-eating-contribution-graph-2g52) for instructions on integrating the `snk` action. It will automatically generate and update the `github-contribution-grid-snake.svg` in your repo.)*
+*(**ACTION REQUIRED:** To make the snake animation work, you absolutely MUST set up a GitHub Action. Follow these resources for instructions on integrating the `snk` action: [Platane/snk](https://dev.to/platane/how-to-generate-your-github-contribution-graph-as-a-snake-game-33m) or [AshishSingh51's Guide](https://dev.to/ashishsingh51/how-to-enable-github-actions-on-your-profile-readme-for-a-snake-eating-contribution-graph-2g52). This action will automatically generate and update the `github-contribution-grid-snake.svg` in your repo's `output` branch or `dist` folder. DO NOT SKIP THIS STEP, OR THE SNAKE WILL NOT APPEAR!)*
 
 ---
 
@@ -115,6 +115,6 @@
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header.gif" width="100%" alt="Animated Footer Banner">
+  <img src="https://media.giphy.com/media/jU9bmk1B9B4Iu1uM0U/giphy.gif" width="100%" alt="Animated Glitch Footer">
   <p><h3><span>&#9889;</span> ETERNALLY OPTIMIZING FOR ULTIMATE DIGITAL SUPREMACY <span>&#9889;</span></h3></p>
 </div>
