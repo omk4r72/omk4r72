@@ -8,6 +8,15 @@
 <h3 align="center">ETERNAL DIGITAL SENTINEL | CYBER-WARFARE ARTISAN | CTF MASTERMIND</h3>
 
 <div align="center">
+  <!-- Your original background image, animated to pulsate with power (requires CSS, but we can simulate with a GIF) -->
+  <!-- For true animation of a static image, you'd embed it in an HTML tag with CSS animation, but for README.md, a GIF is easier -->
+  <img src="https://github.com/omk4r72/omk4r72/blob/main/baccccc.jpg" alt="Animated Background" width="100%" style="border-radius: 10px;"/>
+  <!-- You'll need to create an animated GIF version of your baccccc.jpg if you want it to actually animate, or just use it as a powerful static background -->
+</div>
+<br>
+
+<div align="center">
+  <!-- Main cybersecurity animation, now prominently displayed -->
   <img src="https://raw.githubusercontent.com/User-omk4r72/User-omk4r72/main/assets/cyber-animation.gif" alt="Cybersecurity Animation" width="600" />
 </div>
 
