@@ -63,11 +63,26 @@
 </p>
 
 ## 🚀 Featured Projects
-<p align="center">
-- **Automated Android Pentesting Tool** – Fully automated CLI-based Android app analysis ⚡
-- **Adaptive Malware Detection System (Linux)** – Detects EDR bypass, GPU execution & rootkits 🛠️
-- **Blockchain Evidence Management System** – Secure chain of custody for digital forensics 🔗
-</p>
+
+<div align="center">
+
+<div style="background:#0d1117; border: 2px solid #00fff7; border-radius:15px; padding:15px; margin:10px; width:80%; box-shadow:0 0 15px #00fff7;">
+  <h4 style="color:#00fff7;">⚡ Automated Android Pentesting Tool</h4>
+  <p style="color:#c0c0c0;">Fully automated CLI-based Android app analysis</p>
+</div>
+
+<div style="background:#0d1117; border: 2px solid #ff6ec7; border-radius:15px; padding:15px; margin:10px; width:80%; box-shadow:0 0 15px #ff6ec7;">
+  <h4 style="color:#ff6ec7;">🛠️ Adaptive Malware Detection System (Linux)</h4>
+  <p style="color:#c0c0c0;">Detects EDR bypass, GPU execution & rootkits</p>
+</div>
+
+<div style="background:#0d1117; border: 2px solid #ffd700; border-radius:15px; padding:15px; margin:10px; width:80%; box-shadow:0 0 15px #ffd700;">
+  <h4 style="color:#ffd700;">🔗 Blockchain Evidence Management System</h4>
+  <p style="color:#c0c0c0;">Secure chain of custody for digital forensics</p>
+</div>
+
+</div>
+
 
 ---
 
