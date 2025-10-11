@@ -4,8 +4,8 @@
 </div>
 
 <div align="center">
-  <!-- Abstract, unsettling glitch art for main visual - Far from a standard hacking GIF -->
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTlwZ252ejk3MWtjajYxdTN1NWV1OGNkbWh3eWF5MjF2czVnbm5ieSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kK0P59m4T2fBhm5oB0/giphy.gif" width="900" alt="Abstract Glitch Art" style="border-radius: 15px; border: 3px solid #FF00FF;"/>
+  <!-- NEW MAIN VISUAL: Complex Cybersecurity Data Flow -->
+  <img src="https://media.giphy.com/media/26tn33aiWNK3E4Vig/giphy.gif" width="900" alt="Complex Cybersecurity Data Flow" style="border-radius: 15px; border: 3px solid #00FFFF;"/>
 </div>
 
 <!-- Chaotic Binary Stream: More aggressive, less matrix-like, personalized -->
@@ -17,8 +17,9 @@
 
 # 💥 The Manifesto of Omkar Chavhan:
 
- <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG9tNjF2dmtmYWpzd25oOXQycWNwOXUzaW1xY2xidjFpMWV6ZmtvbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l4pS2lBvT5gUvj1Yk/giphy.gif" width="100%" alt="Animated Data Flow Divider" style="margin-bottom: 20px;"/>
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjBxdXcwMTd5Njd4d2Q2enY0ZnZ5Nmd4M255M2J1ZnN0ZGF1eXQ4cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l4pSRW1c3eD40v6c0/giphy.gif" alt="Abstract Hacker Silhouette">
+ <!-- NEW DIVIDER: Abstract Glitchy Energy -->
+ <img src="https://media.giphy.com/media/l4FGpGgQ4Ue9389JS/giphy.gif" width="100%" alt="Abstract Glitch Energy Divider" style="margin-bottom: 20px;"/>
+<img align="right" src="https://media.giphy.com/media/3o7WTsk62Yq4xYF0Yw/giphy.gif" alt="Hacking Visualization Cube">
 
 👁️‍🗨️ My existence is dedicated to **unraveling the deepest secrets of digital architecture and bending them to my will.**
 <br><br>
@@ -35,7 +36,8 @@
 <a href="https://tryhackme.com/p/0mk4r72" target="_blank">
        <img src="https://tryhackme-badges.s3.amazonaws.com/0mk4r72.png" alt="TryHackMe Badge" style="border-radius: 8px; border: 2px solid #00FFFF;"/>
 </a>
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG9tNjF2dmtmYWpzd25oOXQycWNwOXUzaW1xY2xidjFpMWV6ZmtvbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l4pS2lBvT5gUvj1Yk/giphy.gif" width="100%" alt="Animated Data Flow Divider" style="margin-top: 20px;"/>
+<!-- NEW DIVIDER: Circuit Board Pulse -->
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjMwc2R2N3l2d2dxdnd5cWV0enF0Z3RmbGZzZ28zM3psMHF0b3V2ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VlTts3wWwLqBswR4mY/giphy.gif" width="100%" alt="Circuit Board Pulse Divider" style="margin-top: 20px;"/>
 
 ## 🔗 The Nexus of My Influence:
 
