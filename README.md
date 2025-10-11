@@ -1,93 +1,37 @@
-<!-- Ultimate Cyberpunk Gen Z GitHub Profile README.md for Omkar Chavhan -->
+![logo](https://github.com/omk4r72/omk4r72/blob/main/baccccc.jpg)
+<h1 align="center">Hi 👋, I'm Omkar Chavhan</h1>
+<h3 align="center">Ethical Hacker | Cybersecurity Enthusiast | CTF Player</h3>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="CyberSec Animated Logo" width="200" style="border-radius:50%; border: 3px solid #00fff7; box-shadow: 0 0 25px #00fff7;" />
+<img align="right" alt="coding" width="400" src=https://i.imgur.com/kzo1Owg.gif>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=omk4r72&label=Profile%20views&color=0e75b6&style=flat" alt="omk4r72" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omk4r72" alt="omk4r72" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/omkarchavhan72" target="blank"><img src="https://img.shields.io/twitter/follow/omkarchavhan72?logo=twitter&style=for-the-badge" alt="omkarchavhan72" /></a> </p>
+
+- 🌱 I’m currently learning **Reverse Enginnering & Malware Analysis**
+
+- 💬 Ask me about **CyberSec**
+
+- 📫 How to reach me **chavhanomkar702@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/omkarchavhan72" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="omkarchavhan72" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/omkar-chavhan-33697a312" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omkar-chavhan-33697a312" height="30" width="40" /></a>
+<a href="https://instagram.com/x3roex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="x3roex" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/omk4r72" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="omk4r72" height="30" width="40" /></a>
+<a href="https://discord.gg/0xomkar72" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="0xomkar72" height="30" width="40" /></a>
 </p>
 
-<h1 align="center">Hi 👋, I'm <span style="color:#00fff7;">Omkar Chavhan</span></h1>
-<h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=500&color=00fff7&width=500&lines=Ethical+Hacker+%F0%9F%9A%A1;Cybersecurity+Enthusiast+%F0%9F%9B%A3;CTF+Player+%F0%9F%90%B1%E2%80%8D%F0%9F%92%BB;Malware+Analyst+%F0%9F%9A%92" alt="Typing SVG">
-</h3>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/26xBukh3x8y6pG5tW/giphy.gif" alt="coding animation" width="450" style="border-radius:10px; box-shadow: 0 0 25px #ff6ec7;" />
-</p>
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/0mk4r72"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="0mk4r72" /></a><a href="https://ko-fi.com/0mk4r72"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="0mk4r72" /></a></p><br><br>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=omk4r72&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" />
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omk4r72&show_icons=true&locale=en&layout=compact" alt="omk4r72" /></p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=omk4r72&theme=radical&margin-w=15&margin-h=15" alt="GitHub Trophy" />
-  </a>
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omk4r72&show_icons=true&locale=en" alt="omk4r72" /></p>
 
-## 🌱 About Me
-- Currently leveling up **Reverse Engineering & Malware Analysis** 🧠
-- 💬 Ask me about **Cybersecurity, Hacking, CTF challenges** ⚡
-- 📫 Reach me at: **chavhanomkar702@gmail.com** ✉️
-
-## 🔗 Connect with me
-<p align="center">
-  <a href="https://twitter.com/omkarchavhan72" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
-  <a href="https://linkedin.com/in/omkar-chavhan-33697a312" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://instagram.com/x3roex" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://www.leetcode.com/omk4r72" target="blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
-  <a href="https://discord.gg/0xomkar72" target="blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-</p>
-
-## 🛠 Languages & Tools
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="Zapier" width="40" height="40" />
-</p>
-
-## 💖 Support Me
-<p align="center">
-  <a href="https://www.buymeacoffee.com/0mk4r72"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me a Coffee" /></a>
-  <a href="https://ko-fi.com/0mk4r72"><img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Ko-fi" /></a>
-</p>
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=omk4r72&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=omk4r72&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omk4r72&theme=radical" alt="GitHub Streak" />
-</p>
-
-## 🚀 Featured Projects
-<div align="center">
-<div style="background:#0d1117; border:2px solid #00fff7; border-radius:15px; padding:15px; margin:10px; width:80%; box-shadow:0 0 25px #00fff7; animation: glow 2s infinite alternate;">
-  <h4 style="color:#00fff7;">⚡ Automated Android Pentesting Tool</h4>
-  <p style="color:#c0c0c0;">Fully automated CLI-based Android app analysis</p>
-</div>
-<div style="background:#0d1117; border:2px solid #ff6ec7; border-radius:15px; padding:15px; margin:10px; width:80%; box-shadow:0 0 25px #ff6ec7; animation: glow 2s infinite alternate;">
-  <h4 style="color:#ff6ec7;">🛠️ Adaptive Malware Detection System (Linux)</h4>
-  <p style="color:#c0c0c0;">Detects EDR bypass, GPU execution & rootkits</p>
-</div>
-<div style="background:#0d1117; border:2px solid #ffd700; border-radius:15px; padding:15px; margin:10px; width:80%; box-shadow:0 0 25px #ffd700; animation: glow 2s infinite alternate;">
-  <h4 style="color:#ffd700;">🔗 Blockchain Evidence Management System</h4>
-  <p style="color:#c0c0c0;">Secure chain of custody for digital forensics</p>
-</div>
-</div>
-
-<style>
-@keyframes glow {
-  0% { box-shadow:0 0 10px #00fff7; }
-  50% { box-shadow:0 0 30px #00fff7; }
-  100% { box-shadow:0 0 10px #00fff7; }
-}
-</style>
-
----
-
-> 💬 “Cybersecurity isn’t just a skill — it’s a mindset. 🔥✨”
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omk4r72&" alt="omk4r72" /></p>
