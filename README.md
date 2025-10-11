@@ -1,11 +1,13 @@
 <!-- Ultimate Cyberpunk Gen Z GitHub Profile README.md for Omkar Chavhan -->
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" alt="CyberSec Animated Logo" width="200" style="border-radius:50%; border: 3px solid #00fff7; box-shadow: 0 0 25px #00fff7;" />
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="CyberSec Animated Logo" width="200" style="border-radius:50%; border: 3px solid #00fff7; box-shadow: 0 0 25px #00fff7;" />
 </p>
 
 <h1 align="center">Hi 👋, I'm <span style="color:#00fff7;">Omkar Chavhan</span></h1>
-<h3 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=500&color=00fff7&width=500&lines=Ethical+Hacker+%F0%9F%9A%A1;Cybersecurity+Enthusiast+%F0%9F%9B%A3;CTF+Player+%F0%9F%90%B1%E2%80%8D%F0%9F%92%BB;Malware+Analyst+%F0%9F%9A%92" alt="Typing SVG"></h3>
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=500&color=00fff7&width=500&lines=Ethical+Hacker+%F0%9F%9A%A1;Cybersecurity+Enthusiast+%F0%9F%9B%A3;CTF+Player+%F0%9F%90%B1%E2%80%8D%F0%9F%92%BB;Malware+Analyst+%F0%9F%9A%92" alt="Typing SVG">
+</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/26xBukh3x8y6pG5tW/giphy.gif" alt="coding animation" width="450" style="border-radius:10px; box-shadow: 0 0 25px #ff6ec7;" />
