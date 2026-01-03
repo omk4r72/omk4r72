@@ -20,15 +20,15 @@
 
 ## About Me
 
-I work in cybersecurity with a focus on **how systems actually behave**,  
+I work in cybersecurity with a strong focus on **how systems actually behave** —  
 not just how tools report issues.
 
-My approach emphasizes:
-- Understanding internals before exploitation  
-- Manual analysis before automation  
-- Evidence-driven conclusions  
+My approach is based on:
+- Understanding internals before exploitation
+- Manual analysis before automation
+- Evidence-driven conclusions
 
-I prefer **depth over surface-level findings**.
+I enjoy breaking complex systems down to their **root causes**.
 
 ---
 
@@ -61,24 +61,79 @@ I prefer **depth over surface-level findings**.
 
 ---
 
-## Terminal Snapshot
+## Current Work
 
-> A glimpse into how I interact with systems.
+- Android SSL pinning bypass (Java + native layers)  
+- Malware persistence techniques on Linux  
+- Static & dynamic APK analysis automation  
+- Binary behavior profiling  
 
-```text
-omkar@analysis:~$ whoami
-Omkar Chavhan
+---
 
-omkar@analysis:~$ focus
-Reverse Engineering
-Malware Analysis
-Android Security
+## Selected Projects
 
-omkar@analysis:~$ methodology
-• No blind automation
-• Manual validation
-• Evidence over assumptions
-• Root cause > bug count
+- **AndroidX07**  
+  Automated Android APK vulnerability scanner  
 
-omkar@analysis:~$ status
-ACTIVE — RESEARCH MODE
+- **TrinetraDetect**  
+  Adaptive malware detection framework  
+
+- **InboxMan**  
+  OSINT toolkit for intelligence gathering  
+
+---
+
+## Methodology
+
+My working principles:
+
+- No blind automation  
+- Validate everything manually  
+- Focus on root cause, not surface bugs  
+- Quality findings over quantity  
+
+---
+
+## Threats & Interests
+
+- Android malware & spyware  
+- Credential leakage  
+- Privilege escalation  
+- Broken access control  
+- Persistence & evasion mechanisms  
+
+---
+
+## Platforms & Practice
+
+<p align="left">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/0mk4r.png" alt="TryHackMe Badge" />
+</p>
+
+---
+
+## Availability
+
+Open to:
+- Security research collaboration  
+- Internships  
+- CTF teams  
+- Long-term learning projects  
+
+---
+
+## Contact
+
+📧 **chavhanomkar702@gmail.com**
+
+---
+
+<p align="center">
+  <sub>Signal over noise. Depth over shortcuts.</sub>
+</p>
+
+<!-- Contribution Snake -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iknevo/iknevo/output/snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/iknevo/iknevo/output/snake.svg">
+</picture>
