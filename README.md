@@ -9,7 +9,7 @@
 
 ---
 
-## Terminal Snapshot
+## Terminal 
 <p align="center">
   <img src="output.gif" width="600">
 </p>
