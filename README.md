@@ -1,37 +1,78 @@
-![logo](https://github.com/omk4r72/omk4r72/blob/main/baccccc.jpg)
-<h1 align="center">Hi 👋, I'm Omkar Chavhan</h1>
-<h3 align="center">Ethical Hacker | Cybersecurity Enthusiast | CTF Player</h3>
+<!-- ⌨️ Typing animation introduction -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=800&size=30&duration=2300&pause=100&color=00E5FF&center=true&multiline=true&repeat=false&width=700&height=120&lines=Hi%2C+I'm+Omkar+Chavhan;Cybersecurity+Researcher+%26+Ethical+Hacker;Reverse+Engineering+%7C+Malware+Analysis+%7C+Bug+Bounty" alt="Typing SVG"/>
+  </a>
+</div>
 
-<img align="right" alt="coding" width="400" src=https://i.imgur.com/kzo1Owg.gif>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=omk4r72&label=Profile%20views&color=0e75b6&style=flat" alt="omk4r72" /> </p>
+<br/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omk4r72" alt="omk4r72" /></a> </p>
+<!-- 🔐 Animated welcome -->
+<h2 align="center">
+  <img src="https://user-images.githubusercontent.com/39955420/147578199-56632b69-b3e8-4d9f-97e2-f046a1c2cba0.gif">
+</h2>
 
-<p align="left"> <a href="https://twitter.com/omkarchavhan72" target="blank"><img src="https://img.shields.io/twitter/follow/omkarchavhan72?logo=twitter&style=for-the-badge" alt="omkarchavhan72" /></a> </p>
+<br/>
 
-- 🌱 I’m currently learning **Reverse Enginnering & Malware Analysis**
+<!-- 🔗 Social badges -->
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/omk4r72)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/omkar-chavhan-33697a312)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/omk4r72)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/omk4r72/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://omk4r72.github.io)
 
-- 💬 Ask me about **CyberSec**
+<br/>
 
-- 📫 How to reach me **chavhanomkar702@gmail.com**
+<!-- 🛠️ Skills & Tools -->
+<details open>
+<summary><b>Skills & Tools</b></summary>
+<br>
 
-<h3 align="left">Connect with me:</h3>
+<!-- Security & Reverse Engineering -->
+![Reverse Engineering](https://img.shields.io/badge/Reverse_Engineering-0EA5E9?style=for-the-badge&logo=gnometerminal&logoColor=white)&nbsp;
+![Malware Analysis](https://img.shields.io/badge/Malware_Analysis-8B5CF6?style=for-the-badge&logo=virustotal&logoColor=white)&nbsp;
+![Android Pentesting](https://img.shields.io/badge/Android_Pentesting-34A853?style=for-the-badge&logo=android&logoColor=white)&nbsp;
+![Bug Bounty](https://img.shields.io/badge/Bug_Bounty-F97316?style=for-the-badge&logo=hackerone&logoColor=white)&nbsp;
+
+<!-- Tools -->
+![Ghidra](https://img.shields.io/badge/Ghidra-0F172A?style=for-the-badge)&nbsp;
+![IDA](https://img.shields.io/badge/IDA-111827?style=for-the-badge)&nbsp;
+![Frida](https://img.shields.io/badge/Frida-E11D48?style=for-the-badge)&nbsp;
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=portswigger&logoColor=white)&nbsp;
+
+<!-- Languages -->
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
+![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)&nbsp;
+
+<!-- Platforms -->
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
+
+</details>
+
 <p align="left">
-<a href="https://twitter.com/omkarchavhan72" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="omkarchavhan72" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/omkar-chavhan-33697a312" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omkar-chavhan-33697a312" height="30" width="40" /></a>
-<a href="https://instagram.com/omk4r72" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="x3roex" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/omk4r72" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="omk4r72" height="30" width="40" /></a>
-<a href="https://discord.gg/0xomkar72" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="0xomkar72" height="30" width="40" /></a>
+  <img src="https://komarev.com/ghpvc/?username=omk4r72&label=Visitors&color=181717&style=flat" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+<br>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/0mk4r72"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="0mk4r72" /></a><a href="https://ko-fi.com/0mk4r72"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="0mk4r72" /></a></p><br><br>
+<!-- 🐍 Contribution snake -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iknevo/iknevo/output/snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/iknevo/iknevo/output/snake.svg">
+</picture>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omk4r72&show_icons=true&locale=en&layout=compact" alt="omk4r72" /></p>
+<br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omk4r72&show_icons=true&locale=en" alt="omk4r72" /></p>
+<!-- 🧠 TryHackMe -->
+<p align="left">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/0mk4r.png" alt="TryHackMe Badge" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omk4r72&" alt="omk4r72" /></p>
+<br>
+
+<!-- 📬 Contact -->
+### You can reach me at: **<chavhanomkar702@gmail.com>**
+
