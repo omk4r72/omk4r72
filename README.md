@@ -9,15 +9,11 @@
 
 ---
 
-## 🖥️ Terminal Snapshot
+## 🖥️ Terminal
 
 <p align="center">
   <img src="output.gif" width="620" alt="Terminal Demo">
 </p>
-
-> Minimal, ASCII-safe, hacker-style terminal simulation  
-> Built using `github-readme-terminal / gifos`
-
 ---
 
 ## 🧠 About Me
