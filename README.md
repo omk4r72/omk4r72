@@ -1,29 +1,21 @@
-<p align="center">
-  <a href="https://github.com/omk4r72">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+<!-- ================== TYPING HEADER (CYBER) ================== -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=26&duration=2200&pause=120&color=00E5FF&center=true&multiline=true&repeat=false&width=820&height=110&lines=Hi%2C+I'm+Omkar+Chavhan;Cybersecurity+Researcher+%7C+Ethical+Hacker;Reverse+Engineering+%7C+Malware+Analysis+%7C+Android+Security" />
   </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/omkar-chavhan-33697a312">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://x.com/omkarchavhan72">
-    <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://leetcode.com/omk4r72/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" />
-  </a>
-  &nbsp;
-  <a href="https://omk4r72.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="mailto:chavhanomkar702@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-</p>
+</div>
 
+<br/>
+
+<!-- ================== SOCIAL LINKS (TEXT) ================== -->
+<p align="center">
+  <a href="https://github.com/omk4r72">GitHub</a> •
+  <a href="https://linkedin.com/in/omkar-chavhan-33697a312">LinkedIn</a> •
+  <a href="https://x.com/omkarchavhan72">X</a> •
+  <a href="https://leetcode.com/omk4r72/">LeetCode</a> •
+  <a href="https://omk4r72.github.io">Portfolio</a> •
+  <a href="mailto:chavhanomkar702@gmail.com">Email</a>
+</p>
 
 ---
 
@@ -119,6 +111,7 @@ I enjoy breaking complex systems down to their **root causes**.
 </details>
 
 ---
+---
 
 ## Platforms & Practice
 
@@ -131,7 +124,7 @@ I enjoy breaking complex systems down to their **root causes**.
 ## Availability
 
 Open to:
-- Security research collaboration  
+- Security research collaboration   
 - CTF teams  
 - Long-term learning projects  
 
