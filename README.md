@@ -91,6 +91,9 @@ I enjoy breaking complex systems down to their **root causes**.
 ![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge)
+![Assembly](https://img.shields.io/badge/Assembly-525252?style=for-the-badge)
+
 
 ### Platform
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge)
