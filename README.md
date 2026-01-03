@@ -114,6 +114,13 @@ Open to:
 
 ---
 
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omk4r72&theme=transparent&hide_border=true" />
+</p>
+
+
+
 <p align="center">
   <sub>Signal over noise. Depth over shortcuts.</sub>
 </p>
