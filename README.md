@@ -12,7 +12,16 @@
 ## 🖥️ Terminal
 
 <p align="center">
-  <img src="output.gif" width="620" alt="Terminal Demo">
+  <img 
+    src="output.gif"
+    width="600"
+    style="
+      border:1px solid rgba(255,255,255,0.12);
+      border-radius:14px;
+      background:#0B0F14;
+      padding:6px;
+    "
+  />
 </p>
 ---
 
