@@ -13,16 +13,16 @@
 
 <p align="center">
   <img 
-    src="output.gif"
+    src="output.gif" 
     width="600"
     style="
-      border:1px solid rgba(255,255,255,0.12);
-      border-radius:14px;
-      background:#0B0F14;
-      padding:6px;
+      border:2px solid #00E5FF;
+      border-radius:12px;
+      box-shadow:0 0 18px rgba(0,229,255,0.45);
     "
   />
 </p>
+
 ---
 
 ## 🧠 About Me
