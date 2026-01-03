@@ -1,4 +1,4 @@
-<!-- Typing Header -->
+<!-- ================== TYPING HEADER (CYBER) ================== -->
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=26&duration=2200&pause=120&color=00E5FF&center=true&multiline=true&repeat=false&width=820&height=110&lines=Hi%2C+I'm+Omkar+Chavhan;Cybersecurity+Researcher+%7C+Ethical+Hacker;Reverse+Engineering+%7C+Malware+Analysis+%7C+Android+Security" />
@@ -7,6 +7,7 @@
 
 <br/>
 
+<!-- ================== SOCIAL LINKS (TEXT) ================== -->
 <p align="center">
   <a href="https://github.com/omk4r72">GitHub</a> •
   <a href="https://linkedin.com/in/omkar-chavhan-33697a312">LinkedIn</a> •
@@ -24,9 +25,9 @@ I work in cybersecurity with a strong focus on **how systems actually behave** �
 not just how tools report issues.
 
 My approach is based on:
-- Understanding internals before exploitation
-- Manual analysis before automation
-- Evidence-driven conclusions
+- Understanding internals before exploitation  
+- Manual analysis before automation  
+- Evidence-driven conclusions  
 
 I enjoy breaking complex systems down to their **root causes**.
 
@@ -42,65 +43,81 @@ I enjoy breaking complex systems down to their **root causes**.
 
 ---
 
-## Tools & Technologies
+<!-- ================== PINK BANNER + GIF (PERSONAL TOUCH) ================== -->
+<br/>
 
-**Reverse Engineering**
-- Ghidra, IDA, dnSpy, Radare2  
-- Frida, Jadx, Objection  
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=800&size=30&duration=2300&pause=100&color=FF69B4&center=true&multiline=true&repeat=false&width=700&height=110&lines=Hands-on+Security+Research;Breaking+Systems+to+Understand+Them;Learning+Every+Day" />
+  </a>
+</div>
 
-**Security & Analysis**
-- Burp Suite, Wireshark  
-- ADB, Android emulators, rooted devices  
-- Linux internals & syscall tracing  
+<br/>
 
-**Programming**
-- C / C++  
-- Python  
-- Bash  
-- Java (Android)
+<h2 align="center">
+  <img src="https://user-images.githubusercontent.com/39955420/147578199-56632b69-b3e8-4d9f-97e2-f046a1c2cba0.gif">
+</h2>
 
 ---
 
-## Current Work
-
-- Android SSL pinning bypass (Java + native layers)  
-- Malware persistence techniques on Linux  
-- Static & dynamic APK analysis automation  
-- Binary behavior profiling  
+<!-- ================== SOCIAL BADGES (LOGOS) ================== -->
+<p align="center">
+  <a href="https://github.com/omk4r72">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="https://linkedin.com/in/omkar-chavhan-33697a312">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://instagram.com/omk4r72">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  <a href="https://leetcode.com/omk4r72/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
+  </a>
+  <a href="https://omk4r72.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white">
+  </a>
+</p>
 
 ---
 
-## Selected Projects
+<!-- ================== SKILLS & TOOLS ================== -->
+<details open>
+<summary><b>Skills & Tools</b></summary>
+<br>
 
-- **AndroidX07**  
-  Automated Android APK vulnerability scanner  
+<!-- Security -->
+![Reverse Engineering](https://img.shields.io/badge/Reverse_Engineering-0EA5E9?style=for-the-badge)
+![Malware Analysis](https://img.shields.io/badge/Malware_Analysis-8B5CF6?style=for-the-badge)
+![Android Security](https://img.shields.io/badge/Android_Security-34A853?style=for-the-badge&logo=android&logoColor=white)
+![Bug Bounty](https://img.shields.io/badge/Bug_Bounty-F97316?style=for-the-badge&logo=hackerone&logoColor=white)
 
-- **TrinetraDetect**  
-  Adaptive malware detection framework  
+<!-- Tools -->
+![Ghidra](https://img.shields.io/badge/Ghidra-0F172A?style=for-the-badge)
+![IDA](https://img.shields.io/badge/IDA-111827?style=for-the-badge)
+![Frida](https://img.shields.io/badge/Frida-E11D48?style=for-the-badge)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=portswigger&logoColor=white)
 
-- **InboxMan**  
-  OSINT toolkit for intelligence gathering  
+<!-- Languages -->
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+
+<!-- Platform -->
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+</details>
 
 ---
 
 ## Methodology
 
-My working principles:
-
 - No blind automation  
-- Validate everything manually  
-- Focus on root cause, not surface bugs  
-- Quality findings over quantity  
-
----
-
-## Threats & Interests
-
-- Android malware & spyware  
-- Credential leakage  
-- Privilege escalation  
-- Broken access control  
-- Persistence & evasion mechanisms  
+- Manual validation before reporting  
+- Evidence over assumptions  
+- Root cause > bug count  
 
 ---
 
