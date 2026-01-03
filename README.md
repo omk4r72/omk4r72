@@ -7,16 +7,6 @@
 
 <br/>
 
-<!-- ================== SOCIAL LINKS ================== -->
-<p align="center">
-  <a href="https://github.com/omk4r72">GitHub</a> •
-  <a href="https://linkedin.com/in/omkar-chavhan-33697a312">LinkedIn</a> •
-  <a href="https://x.com/omkarchavhan72">X</a> •
-  <a href="https://leetcode.com/omk4r72/">LeetCode</a> •
-  <a href="https://omk4r72.github.io">Portfolio</a> •
-  <a href="mailto:chavhanomkar702@gmail.com">Email</a>
-</p>
-
 ---
 
 ## About Me
