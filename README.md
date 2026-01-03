@@ -135,3 +135,13 @@ Open to:
   <img src="https://raw.githubusercontent.com/madushadhanushka/github-readme-terminal/master/img/terminal.gif" width="420">
 </p>
 
+---
+<p align="center">
+  <img src="anime.gif" width="420">
+</p>
+
+<p align="center">
+  <b>Observe. Understand. Execute.</b>
+</p>
+
+
