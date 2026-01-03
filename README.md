@@ -45,15 +45,9 @@ I enjoy breaking complex systems down to their **root causes**.
 
 <!-- ================== TERMINAL SHOWCASE ================== -->
 ## Terminal Snapshot
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/x0rzavi/github-readme-terminal/master/docs/assets/demo.gif" alt="Terminal Demo" />
+  <img src="output.gif" width="600">
 </p>
-
-<sub align="center">
-Simulated retro terminal displaying live GitHub-style system information.
-</sub>
-
 ---
 
 <!-- ================== SOCIAL BADGES ================== -->
