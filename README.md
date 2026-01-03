@@ -111,6 +111,22 @@ I enjoy breaking complex systems down to their **root causes**.
 </details>
 
 ---
+
+## GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=omk4r72&show_icons=true&hide_title=true&theme=transparent" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=omk4r72&theme=transparent" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omk4r72&layout=compact&theme=transparent" />
+</p>
+
+
 ---
 
 ## Platforms & Practice
