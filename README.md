@@ -108,6 +108,35 @@ Open to:
 
 ---
 
+
+## GitHub Activity
+
+<p align="center">
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=omk4r72&show_icons=true&theme=transparent&hide_border=true"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=omk4r72&show_icons=true&hide_border=true"
+    />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=omk4r72&layout=compact&theme=transparent&hide_border=true"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=omk4r72&layout=compact&hide_border=true"
+    />
+  </picture>
+</p>
+
+---
+
 ## 📬 Contact
 
 📧 **chavhanomkar702@gmail.com**
