@@ -1,9 +1,4 @@
 <!-- ================== TYPING HEADER (CYBER) ================== -->
-## Terminal Snapshot
-<p align="center">
-  <img src="output.gif" width="600">
-</p>
-
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=26&duration=2200&pause=120&color=00E5FF&center=true&multiline=true&repeat=false&width=820&height=110&lines=Hi%2C+I'm+Omkar+Chavhan;Cybersecurity+Researcher+%7C+Ethical+Hacker;Reverse+Engineering+%7C+Malware+Analysis+%7C+Android+Security" />
@@ -11,6 +6,13 @@
 </div>
 
 <br/>
+
+---
+
+## Terminal Snapshot
+<p align="center">
+  <img src="output.gif" width="600">
+</p>
 
 ---
 
